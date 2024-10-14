@@ -1,0 +1,1 @@
+C:\Users\lenovo-KT\Desktop\im\ a\ programmer\mix\ of\ langs\wordASorter\word-lol-sorter\target\debug\word-lol-sorter.exe: C:\Users\lenovo-KT\Desktop\im\ a\ programmer\mix\ of\ langs\wordASorter\word-lol-sorter\src\main.rs
