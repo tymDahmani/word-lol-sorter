@@ -2,7 +2,7 @@
 ### a simple, quick, and easy words/characters sorter - including a cli program (rust)
 
 ## Java:
-  - download the file
+  - download the [file](main.java)
   - in case you don't have java installed; then you prob need it :(
   - run it using the cmd/terminal using: `java main.java`
   - done!
