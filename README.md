@@ -4,7 +4,7 @@
 ## Java:
   - download the file
   - in case you don't have java installed; then you prob need it :(
-  - run it using the cmd/terminal using: `java word-lol-sorter.java`
+  - run it using the cmd/terminal using: `java main.java`
   - done!
 
 
