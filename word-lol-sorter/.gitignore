@@ -1,4 +1,5 @@
 /target/*
-!target/debug
 /target/debug/*
-!target/debug/word-lol-sorter.exe
+!target/release
+/target/release/*
+!target/release/word-lol-sorter.exe
